@@ -1,0 +1,13 @@
+node_modules/
+main.js
+dist/
+.preview/
+*.log
+.npm-cache/
+task_plan.md
+findings.md
+progress.md
+.env
+.env.*
+.codex/
+.agents/

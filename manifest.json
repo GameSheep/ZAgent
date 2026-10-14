@@ -1,0 +1,10 @@
+{
+  "id": "zagent",
+  "name": "ZAgent",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Launch local AI agents with the current Markdown note as context.",
+  "author": "GameSheep",
+  "authorUrl": "https://github.com/GameSheep",
+  "isDesktopOnly": true
+}
